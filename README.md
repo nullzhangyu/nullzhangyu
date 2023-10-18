@@ -7,12 +7,3 @@
     </a>
   </div>
 
-
-<!-- GitHub Activity Graph GitHub 活动图 -->
-<table align="center">
-  <tr>
-    <td><img src="https://github-readme-activity-graph.vercel.app/graph?username=nullsciN&theme=xcode&bg_color=FF000000&hide_border=true" alt="Activity"/></td>
-  </tr>
-</table>
-
-</div>
