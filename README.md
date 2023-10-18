@@ -6,5 +6,6 @@
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Yu Zhang's repository&center=true&size=27" alt="Typing SVG" />
     </a>
   </div>
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=nullsci)](https://git.io/streak-stats)
+<div align="center">
+  
+ [![GitHub Streak](https://streak-stats.demolab.com/?user=nullsci)](https://git.io/streak-stats)
