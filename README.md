@@ -8,4 +8,4 @@
   </div>
 <div align="center">
   
- [![GitHub Streak](https://streak-stats.demolab.com/?user=nullsci)](https://git.io/streak-stats)
+ [![GitHub Streak](https://streak-stats.demolab.com/?user=nullsci)&theme=dark](https://git.io/streak-stats)
