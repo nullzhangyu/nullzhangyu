@@ -7,3 +7,4 @@
     </a>
   </div>
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=nullsci)](https://git.io/streak-stats)
